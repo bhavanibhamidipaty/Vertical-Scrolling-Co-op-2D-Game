@@ -1,9 +1,6 @@
 # Vertical-Scrolling-Co-op-2D-Game
 Fight through waves of enemies through a vertical map with a friend. Strategize your play based on your heroes' abilities and how they work together.
 
-
-[comment]: <> (This is a comment, it will not be included)
-
 ## 2 Players : Archer Elf and Gladiator Elf
 Archer can perform ranged attacks by shooting arrows. Gladiator can perform melee attacks using the spear and can protect self using shield from ranged attacks. 
 Players have 2 resource bars: HP and SP. HP drains on being hit by arrows or melee attacks. SP varies for both players. 
